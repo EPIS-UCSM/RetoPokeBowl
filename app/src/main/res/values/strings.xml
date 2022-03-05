@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Reto Poke Bowl</string>
+    <string name="agregar_al_carrito">Agregar al carrito</string>
+    <string name="esenciales_5_bloques_por_completar">ESENCIALES (5 BLOQUES POR COMPLETAR)</string>
+</resources>
